@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate frontend developer and UX/UI designer from Peru </h3>
 
-- 🔭 I’m currently working on **my profolio**
+- 🔭 Take a look my profolio at  **https://continuous-currant-c36.notion.site/PORTAFOLIO-TRACKER-ONEYDA-CAVERO-1d6e9faea97e80b39768de8a850e9d9d?source=copy_link**
 
 - 🌱 I’m currently learning **Javascript and Spring**
 
