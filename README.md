@@ -7,9 +7,7 @@
 
 - 🔭 Check out my portfolio at **https://continuous-currant-c36.notion.site/PORTAFOLIO-TRACKER-ONEYDA-CAVERO-1d6e9faea97e80b39768de8a850e9d9d?source=copy_link**
 
-- 🌱 I’m currently learning **Wordpress, Javascript and Spring**
-
-- 👨‍💻 All of my projects are available at [Working...](Working...)
+- 🌱 I’m currently learning **Wordpress, Angular and Spring**
 
 - 📫 How to reach me **oneydacawi@gmail.com**
 
